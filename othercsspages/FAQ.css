@@ -42,7 +42,6 @@
 }
 
 .underline-hover::after {
-    content: "";
     position: absolute;
     width: 0;
     height: 2px;
@@ -549,9 +548,7 @@ nav {
 .image-box1 img{
     border: 2px solid black;
 }
-.seventh-section{
-    /* background-image: url(../images/pricing\ img2.png); */
-}
+
 .hero-image{
     border: 2px solid black;
     display: flex;
